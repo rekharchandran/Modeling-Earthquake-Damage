@@ -4,7 +4,8 @@
 ### Overview
 Based on aspects of building location and construction, your goal is to predict the level of damage to buildings caused by the 2015 Gorkha earthquake in Nepal.
 
-This is an intermediate-level practice competition.
+How artificial intelligence and predictive analysis can help in faster damage recovery from earthquake
+
 
 The data was collected through surveys by the Central Bureau of Statistics that work under the National Planning Commission Secretariat of Nepal. This survey is one of the largest post-disaster datasets ever collected, containing valuable information on earthquake impacts, household conditions, and socio-economic-demographic statistics.  
 #### Source https://www.drivendata.org/competitions/57/nepal-earthquake/
