@@ -4,6 +4,8 @@
 ### Overview
 Based on aspects of building location and construction, your goal is to predict the level of damage to buildings caused by the 2015 Gorkha earthquake in Nepal.The data mainly consists of information on the buildings' structure and their legal ownership. Each row in the dataset represents a specific building in the region that was hit by Gorkha earthquake.
 
+Data Source: https://www.drivendata.org/competitions/57/nepal-earthquake/
+
 How artificial intelligence and predictive analysis can help in faster damage recovery from earthquake
 
 
@@ -20,7 +22,7 @@ The data was collected through surveys by the Central Bureau of Statistics that 
 ### Features
 The dataset mainly consists of information on the buildings' structure and their legal ownership. Each row in the dataset represents a specific building in the region that was hit by Gorkha earthquake.
 
-There are 39 columns in this dataset, where the building_id column is a unique and random identifier. The remaining 38 features are described in the section below. Categorical variables have been obfuscated random lowercase ascii characters. The appearance of the same character in distinct columns does not imply the same original value.
+There are 39 columns in this dataset including structual information such as the number of floors (before the earthquake), age of the building, and type of foundation, as well as legal information such as ownership status, building use, and the number of families who live there. Each building is identified by a unique (random) building_id, which you can use as an index.
 
 ### Description
 
