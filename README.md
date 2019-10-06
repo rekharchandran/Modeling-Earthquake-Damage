@@ -4,13 +4,16 @@
 ### Overview
 Based on aspects of building location and construction, your goal is to predict the level of damage to buildings caused by the 2015 Gorkha earthquake in Nepal.The data mainly consists of information on the buildings' structure and their legal ownership. Each row in the dataset represents a specific building in the region that was hit by Gorkha earthquake.
 
-Data Source: https://www.drivendata.org/competitions/57/nepal-earthquake/
+### General Overview of the data
+
+Data collected from DrivenData.org competition website
+
+#### Data Source: https://www.drivendata.org/competitions/57/nepal-earthquake/
 
 How artificial intelligence and predictive analysis can help in faster damage recovery from earthquake
 
+Inhouse data was collected through surveys by the Central Bureau of Statistics that work under the National Planning Commission Secretariat of Nepal. It is rumoured that this survey is one of the largest post-disaster datasets ever collected, containing valuable information on earthquake impacts, household conditions, and socio-economic-demographic statistics.  
 
-The data was collected through surveys by the Central Bureau of Statistics that work under the National Planning Commission Secretariat of Nepal. This survey is one of the largest post-disaster datasets ever collected, containing valuable information on earthquake impacts, household conditions, and socio-economic-demographic statistics.  
-#### Source https://www.drivendata.org/competitions/57/nepal-earthquake/
 
 ### Problem description
  Predict the ordinal variable damage_grade, which represents a level of damage to the building that was hit by the earthquake. There are 3 grades of the damage:
