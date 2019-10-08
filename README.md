@@ -116,8 +116,9 @@ F1 - performance on a binary classifier
 
 But since we have three possible labels we used a variant called the micro averaged F1 score.
 
+In Python, we can easily calculate this loss using sklearn.metrics.f1_score with the keyword argument average='micro'
 
-
+### Modelling
 
 
 
