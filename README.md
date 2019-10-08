@@ -120,7 +120,7 @@ In Python, we can easily calculate this loss using sklearn.metrics.f1_score wi
 
 ### Modelling
 
-Model .                        Micro avg./f1 scor
+Model                         Micro avg./f1 scor
 Logistic Regression                 0.59
 KNN                                 0.63
 Linear SVM                          0.63
@@ -130,10 +130,13 @@ Catboost                            0.73
 Deep Neural Network                 0.57
 (Tensorflow)
 
+### Feature Impotrances
 
+No     Featureindex                     Importances
 
-
-
+1       geo_level_3_id                     26.67
+2       geo_level_2_id                     20.12
+3       Age                                 8.8
 
 
 
