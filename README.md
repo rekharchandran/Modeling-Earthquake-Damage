@@ -108,6 +108,13 @@ We are predicting the level of damage from 1 to 3(Low,Medium,High). The level of
 This can be viewd as a classification or Regression Problem
 
 
+### performance metrics
+
+To measure the performance of our algorithms, we have used the F1 score which balances the precision and recall of a classifier
+
+F1 - performance on a binary classifier
+
+But since we have three possible labels we used a variant called the micro averaged F1 score.
 
 
 
