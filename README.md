@@ -137,8 +137,9 @@ No     Featureindex                     Importances
 1       geo_level_3_id                     26.67
 2       geo_level_2_id                     20.12
 3       Age                                 8.8
-
-
+4       geo_level_2_id                      8.6
+5       ground_floor_type_v                 5.20
+6       roof_type_x                         3.8
 
 
 
