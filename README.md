@@ -145,9 +145,7 @@ No     Featureindex                           Importances
 9       foundation_type_i                           3.17
 10      height_percentage                           2.71
 
-### Conclusion
-This modelling proves that seismic damage prediction using Machine Learning models is possible. 
-Nevertheless, limitations concerning the prediction accuracy are present. 
+ 
 
 
 
