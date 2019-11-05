@@ -23,9 +23,7 @@ Inhouse data was collected through surveys by the Central Bureau of Statistics t
 3 represents almost complete destruction
 
 ### Features
-The dataset mainly consists of information on the buildings' structure and their legal ownership. Each row in the dataset represents a specific building in the region that was hit by Gorkha earthquake.
-
-There are 39 columns in this dataset including structual information such as the number of floors (before the earthquake), age of the building, and type of foundation, as well as legal information such as ownership status, building use, and the number of families who live there. Each building is identified by a unique (random) building_id, which you can use as an index.
+ index.
 
 
 ### Description
