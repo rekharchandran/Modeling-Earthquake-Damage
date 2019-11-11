@@ -119,15 +119,7 @@ In Python, we can easily calculate this loss using sklearn.metrics.f1_score wi
 
 ### Modelling
 
-Model                         Micro avg./f1 scor
-Logistic Regression                 0.59
-KNN                                 0.63
-Linear SVM                          0.63
-Decision Tree                       0.64
-Random Forest                       0.72
-Catboost                            0.73
-Deep Neural Network                 0.57
-(Tensorflow)
+
 
 ### Feature Impotrances
 
