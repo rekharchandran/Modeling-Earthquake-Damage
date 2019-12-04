@@ -22,16 +22,18 @@ Inhouse data was collected through surveys by the Central Bureau of Statistics t
 2 represents a medium amount of damage
 3 represents almost complete destruction
 
-### Features
- index.
+### Featuresindex.
 
 
 ### Description
 
 ##### geo_level_1_id, geo_level_2_id, geo_level_3_id (type: int): 
 geographic region in which building exists, from largest (level 1) to most specific sub-region (level 3). Possible values: 
-##### level 1: 
-0-30, level 2: 0-1427, level 3: 0-12567.
+level 1: 0-30
+
+level 2: 0-1427
+
+level 3: 0-12567
 ##### count_floors_pre_eq (type: int): 
 number of floors in the building before the earthquake.
 ##### age (type: int): 
