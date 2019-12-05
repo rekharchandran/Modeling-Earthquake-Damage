@@ -22,7 +22,8 @@ Inhouse data was collected through surveys by the Central Bureau of Statistics t
 2 represents a medium amount of damage
 3 represents almost complete destruction
 
-### Featuresindex.
+### Features
+
 
 
 ### Description
