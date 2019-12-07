@@ -152,7 +152,8 @@ No     Featureindex                           Importances
 
  ### Conclusion
 
-
+This modelling proves that seismic damage prediction using Machine Learning models is possible. 
+Nevertheless, limitations concerning the prediction accuracy are present.
 
 
 
