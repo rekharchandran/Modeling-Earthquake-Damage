@@ -8,7 +8,6 @@ Based on aspects of building location and construction, our goal is to predict t
 
 ### General Overview of the data
 
-Data collected from DrivenData.org competition website
 
 #### Data Source: https://www.drivendata.org/competitions/57/nepal-earthquake/
 
