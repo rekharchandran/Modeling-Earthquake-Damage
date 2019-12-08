@@ -108,9 +108,7 @@ flag variable that indicates if the building was used fas a government office.
 flag variable that indicates if the building was used as a police station.
 has_secondary_use_other (type: binary): flag variable that indicates if the building was secondarily used for other purposes.
 
-### Our Target
-We are predicting the level of damage from 1 to 3(Low,Medium,High). The level of damage is an ordinal variable meaning that ordering is important. 
-This can be viewd as a classification or Regression Problem
+
 
 
 ### performance metrics
