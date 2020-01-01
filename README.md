@@ -25,6 +25,8 @@ Inhouse data was collected through surveys by the Central Bureau of Statistics t
 
 ### Features
 
+The dataset mainly consists of information on the buildings' structure and their legal ownership. Each row in the dataset represents a specific building in the region that was hit by Gorkha earthquake.
+
 
 
 ### Description
