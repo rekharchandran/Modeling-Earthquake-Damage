@@ -5,7 +5,6 @@ Based on aspects of building location and construction, our goal is to predict t
 
 ### Overview
 
- How artificial intelligence and predictive analysis can help in faster damage recovery from earthquake
 
 ### General Overview of the data
 
