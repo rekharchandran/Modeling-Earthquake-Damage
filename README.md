@@ -15,7 +15,7 @@ Data collected from DrivenData.org competition website
 
 #### Data Source: https://www.drivendata.org/competitions/57/nepal-earthquake/
 
-
+Inhouse data was collected through surveys by the Central Bureau of Statistics that work under the National Planning Commission Secretariat of Nepal. It is rumoured that this survey is one of the largest post-disaster datasets ever collected, containing valuable information on earthquake impacts, household conditions, and socio-economic-demographic statistics. 
 
 
 ### Problem description
